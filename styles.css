@@ -1,0 +1,29 @@
+body {
+  background: red;
+  color: white;
+}
+.mainSection {
+  background-color: black;
+  margin: auto 5rem;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 6rem;
+  font-family: "Rye", cursive;
+}
+h2 {
+  font-size: 5rem;
+  font-family: "Rye", cursive;
+  font-weight: 800;
+}
+h3 {
+  font-size: 4rem;
+  font-family: "Rye";
+}
+h4 {
+  font-size: 3rem;
+}
